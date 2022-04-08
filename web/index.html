@@ -1,0 +1,48 @@
+<html>
+	<head>
+		<title>Random Name Generator - Generate random names from syllables!</title>
+		<link rel="stylesheet" type="text/css" href="style.css">
+		<script src="script.js"></script>
+		<script src="language.js"></script>
+	</head>
+	<body onload="pageload();">
+		<div class="header">
+			Random Name Generator
+		</div>
+		<div class="menu">
+			<ul>
+				<li onclick="goTo('Home');">Home</li>
+				<li onclick="generate('Amharic');">Amharic</li>
+				<li onclick="generate('Chinese');">Chinese</li>
+				<li onclick="generate('Russian');">Russian</li>
+				<li onclick="generate('Greek');">Greek</li>
+				<li onclick="generate('Hebrew');">Hebrew</li>
+				<li onclick="generate('Japanese');">Japanese</li>
+				<li onclick="generate('Latin');">Latin</li>
+				<li onclick="goTo('Contact');">Contact</li>
+			</ul>
+		</div>
+		<div class="page">
+			<div class="content">
+				<div id="home">
+					Welcome to the Random Name Generator. Select a language
+					from above to generate 10 random names.<br/><br/>
+					Use the "Custom" tab to input your own syllables and
+					generate names from your own language.
+				</div>
+				<div id="name">
+					
+				</div>
+				<div id="contact">
+					This web application was created by Henry Tranter.<br/><br/>
+					Contact details:
+					<ul>
+						<li>Linked-In: <a href='https://www.linkedin.com/in/henry-tranter-74394897/'>Henry Tranter</a></li>
+						<li>Email: <a href='henryct@hotmail.co.uk'>henryct@hotmail.co.uk</a></li>
+						<li>Tumblr: <a href='https://aestheticallypleasingcode.tumblr.com/'>Aesthetically Pleasing Code</a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>

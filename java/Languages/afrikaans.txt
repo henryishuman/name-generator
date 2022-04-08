@@ -1,0 +1,2 @@
+Afrikaans
+aa,an,ar,as,at,be,de,di,ee,el,en,er,es,et,ge,he,ie,in,is,ke,le,li,me,nd,ng,on,oo,or,re,se,st,te,va,wa,we,aan,aar,and,der,die,ede,een,eer,ens,ers,ese,est,eur,ges,het,ies,ing,lan,lik,lle,met,nde,nie,oor,ord,sie,sta,ste,ter,uit,van,ver,wat
